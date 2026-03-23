@@ -1,7 +1,10 @@
 ## Hello! 👋   
 Welcome to my github!   
-I'm **Seongmin, a Front-End Enginner.** 🧑🏻‍💻
-I mainly use Vue.js, and also handle React.
+
+I'm **Seongmin, a Front-End Enginner.** 🧑‍💻  
+
+I mainly use **Vue.js**, and also handle **React**.   
+
 _in a bit of Kubernetes and Java._  
 
 ## 💡 Skills 💡
